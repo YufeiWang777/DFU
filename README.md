@@ -95,7 +95,9 @@ python DFU/val.py -c val_LRRU_with_Three_DFU.yml
 
 ### Pretrained models
 
- LRRU_with_Three_DFU [download link](https://drive.google.com/file/d/1IYoobWIImsD1GwFJfnv4RkVL1cAFZ7sX/view?usp=drive_link) 
+## KITTI
+
+[LRRU_with_Three_DFU](https://drive.google.com/file/d/1IYoobWIImsD1GwFJfnv4RkVL1cAFZ7sX/view?usp=drive_link) 
 
 
 ### Acknowledgments
